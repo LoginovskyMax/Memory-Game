@@ -1,0 +1,35 @@
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.main{
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    position: relative;
+}
+.main_conteiner{
+    /* background-color: rgb(209, 245, 179); */
+    border: 1px solid black;
+    border-radius: 10%;
+}
+.main_item{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: wheat;
+    text-align: center;
+}
+.victory{
+    display: none;
+    width: 600px;
+    position: absolute;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    background-color: wheat;
+}
