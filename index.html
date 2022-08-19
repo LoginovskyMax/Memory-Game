@@ -4,15 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style_bigPractice.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="menu">
+    
         <div class="menu">
-            <h1>Game "Memory"</h1><button type="button" id="startBtn">Start</button>
-           </div>
-    </div>
+            <h1>Game "Memory"</h1>
+            <p class="text">Укажите карточки с одинаковыми картинками, после нажатия кнопки у вас будет 2 секунды чтобы запомнить их расположение</p>
+            <button type="button" id="startBtn">Start game</button>
+         </div>
+
     <hr>
      <div class="main">
          <div class="main_conteiner">
@@ -45,10 +47,8 @@
      <div class="main_conteiner">
         <div class="main_item"  data-name="triangle"><img src="" >triangle</div>
      </div>
-     <div class="victory"></div>
     </div>
-  
-
-    <script src="script/js_bigPractice.js"></script>
+    <div class="victory"><div class="victory_block"><p class="victory_text"></p><button id="Restart">Начать заново</button></div></div>
+    <script src="script/script.js"></script>
 </body>
 </html>
