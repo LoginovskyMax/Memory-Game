@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background: linear-gradient(white,wheat,orange);
+    background: linear-gradient(rgb(230, 10, 10),rgb(12, 26, 151),rgb(11, 199, 21));
     padding-bottom: 100px;
 }
 
