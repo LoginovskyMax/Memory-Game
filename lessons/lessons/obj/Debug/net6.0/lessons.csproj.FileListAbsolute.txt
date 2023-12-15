@@ -1,0 +1,2 @@
+/Users/beks/Projects/lessons/lessons/obj/Debug/net6.0/lessons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beks/Projects/lessons/lessons/obj/Debug/net6.0/lessons.AssemblyInfoInputs.cache
