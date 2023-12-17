@@ -36,7 +36,7 @@ body{
     height: 150px;
     border: 1px solid black;
     border-radius: 10%;
-    background-color: wheat;
+    background-color: lightblue;
     text-align: center;
 }
 .victory{
@@ -88,7 +88,7 @@ body{
         height: 75px;
         border: 1px solid black;
         border-radius: 10%;
-        background-color: wheat;
+        background-color: lightblue;
         text-align: center;
     }
     .victory_block{
