@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBoYO+L6XW5dCQPrJ+MGO6ePmoK+L9iNY4Ozj7bUSLBkmiF28VnhQx/IO0HPBBD35bNDi5zsmLE8cGJYNDQ26w==",
+  "success": true,
+  "projectFilePath": "/Users/beks/Projects/lessons/lessons/lessons.csproj",
+  "expectedPackageFiles": [
+    "/Users/beks/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/beks/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512",
+    "/Users/beks/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
