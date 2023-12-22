@@ -20,19 +20,19 @@ main_conteiner.forEach(item=>SetImage(item,"https://encrypted-tbn0.gstatic.com/i
 
 main_item.forEach(item=>{
     if( item.getAttribute("data-name")=="triangle"){
-        SetImage(item,"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Penrose_triangle.svg/1200px-Penrose_triangle.svg.png")
+        SetImage(item,"https://www.svgrepo.com/show/532297/triangle.svg")
     }
     if(item.getAttribute("data-name")=="rect"){
-        SetImage(item,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNr5r6lyOnkLsnMSuImwsTk-c98ppH6BM7XQ&usqp=CAU")
+        SetImage(item,"https://www.svgrepo.com/show/532287/square.svg")
     }
     if(item.getAttribute("data-name")=="circle"){
-        SetImage(item,"https://png.pngtree.com/png-clipart/20200801/ourlarge/pngtree-blue-purple-gradient-circle-png-image_2319138.jpg")
+        SetImage(item,"https://www.svgrepo.com/show/532681/circle.svg")
     }
-    if(item.getAttribute("data-name")=="hearth"){
-        SetImage(item,"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/800px-Heart_coraz%C3%B3n.svg.png")
+    if(item.getAttribute("data-name")=="heart"){
+        SetImage(item,"https://www.svgrepo.com/show/532473/heart.svg")
     }
     if(item.getAttribute("data-name")=="star"){
-        SetImage(item,"https://w7.pngwing.com/pngs/166/368/png-transparent-black-star-illustration-computer-icons-star-star-stable-three-dimensional-five-pointed-star-angle-triangle-logo.png")
+        SetImage(item,"https://www.svgrepo.com/show/533052/star.svg")
     }
 })
 
