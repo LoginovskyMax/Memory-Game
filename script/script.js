@@ -106,6 +106,10 @@ startBtn.addEventListener('click',()=>{
 restartBtn.addEventListener('click',()=>{
     victory.style.display = "none"
     victoryBlock.textContent = ""
+    Arr = []
+    except = []
+    couterOfClicks = 0
+    couterOfTry = 0
 })
 
 
